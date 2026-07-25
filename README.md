@@ -2,7 +2,7 @@
 
 # Altalea
 
-### Ingénierie numérique · Automatisation · Données · Intelligence artificielle
+### Automatisation · Données · Intelligence artificielle
 
 **Des outils concrets pour des besoins opérationnels réels.**
 
@@ -10,7 +10,7 @@
 
 ## À propos
 
-**Altalea** est une activité indépendante d’ingénierie numérique consacrée à la création d’outils métier, d’automatisations et de solutions fondées sur la donnée et l’intelligence artificielle.
+**Altalea** est une activité indépendante consacrée à la création d’outils métier, d’automatisations et de solutions fondées sur la donnée et l’intelligence artificielle.
 
 Portée par une ingénieure, elle transforme des méthodes de travail manuelles, dispersées ou peu fiables en systèmes plus structurés, automatisés et maintenables. Le développement vient après la compréhension du besoin métier.
 
@@ -24,7 +24,7 @@ Les projets présentés ici privilégient des solutions simples, utiles, documen
 4. **Développer et documenter** son fonctionnement.
 5. **Fiabiliser** son utilisation, sa maintenance et sa traçabilité dans la durée.
 
-L’automatisation est utilisée comme un moyen de réduire les erreurs, sécuriser les processus et libérer du temps — jamais comme une fin en soi.
+L’automatisation est utilisée comme un moyen de réduire les erreurs, sécuriser les processus et libérer du temps, jamais comme une fin en soi.
 
 ## Domaines de travail
 
@@ -40,15 +40,15 @@ L’automatisation est utilisée comme un moyen de réduire les erreurs, sécuri
 
 ## Principes
 
-- comprendre le besoin avant de choisir la technologie ;
-- rechercher la solution la plus simple qui réponde correctement au problème ;
-- privilégier la fiabilité, la lisibilité et la maintenabilité ;
-- préserver la confidentialité, la traçabilité et la maîtrise des données ;
-- produire une documentation suffisante pour permettre une utilisation durable.
+- Comprendre le besoin avant de choisir la technologie ;
+- Rechercher la solution la plus simple qui réponde correctement au problème ;
+- Privilégier la fiabilité, la lisibilité et la maintenabilité ;
+- Préserver la confidentialité, la traçabilité et la maîtrise des données ;
+- Produire une documentation suffisante pour permettre une utilisation durable.
 
 ## Projets
 
-### Notion PPL
+### Notion PPL - Personnel
 
 Projet personnel de tableau de bord intégré à Notion pour le suivi d’une formation de pilote privé : heures de vol, progression théorique, budget, dernières séances et saisie de nouvelles données.
 
