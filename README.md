@@ -1,45 +1,71 @@
 <div align="center">
 
-# Léa Dupin
+# Altalea
 
-### Mobilité électrique · produits numériques · automatisation
+### Ingénierie numérique · Automatisation · Données · Intelligence artificielle
 
-**Je construis des outils simples pour rendre des sujets complexes plus lisibles et actionnables.**
+**Des outils concrets pour des besoins opérationnels réels.**
 
 </div>
 
-## Altalea ⚡
+## À propos
 
-Je développe **Altalea** autour de la mobilité électrique : cartographie des bornes, lecture des offres de recharge, comparaison des coûts et outils d’aide à la décision.
+**Altalea** est une activité indépendante d’ingénierie numérique consacrée à la création d’outils métier, d’automatisations et de solutions fondées sur la donnée et l’intelligence artificielle.
 
-Mon approche : partir d’un besoin concret, structurer les données utiles, puis construire une expérience claire — du prototype au produit utilisable.
+Portée par une ingénieure, elle transforme des méthodes de travail manuelles, dispersées ou peu fiables en systèmes plus structurés, automatisés et maintenables. Le développement vient après la compréhension du besoin métier.
 
-## Projets personnels
+Les projets présentés ici privilégient des solutions simples, utiles, documentées et adaptées à leur contexte d’utilisation.
 
-### ✈️ Notion PPL
+## Méthode de travail
 
-Un cockpit personnel intégré à Notion pour suivre une formation de pilote privé :
+1. **Analyser** le besoin opérationnel et les contraintes réelles.
+2. **Structurer** les données, les règles métier et les responsabilités.
+3. **Choisir** une solution proportionnée au besoin.
+4. **Développer et documenter** son fonctionnement.
+5. **Fiabiliser** son utilisation, sa maintenance et sa traçabilité dans la durée.
 
-- heures de vol, double commande, solo et progression théorique ;
-- budget consommé, budget restant et répartition des dépenses ;
-- derniers vols et saisie rapide de nouvelles séances ;
-- synchronisation avec les bases Notion via API et déploiement sur Vercel.
+L’automatisation est utilisée comme un moyen de réduire les erreurs, sécuriser les processus et libérer du temps — jamais comme une fin en soi.
 
-### 🧪 Expérimentations
+## Domaines de travail
 
-Je prototype aussi des assistants, des tableaux de bord et des automatisations qui relient données, API et usages du quotidien.
+| Domaine | Applications |
+| --- | --- |
+| Automatisation | Scripts Python, traitement de fichiers et automatisation de tâches |
+| Données et bureautique | Excel, VBA, LibreOffice, nettoyage et transformation de données |
+| Suivi et reporting | Notion, bases de données, tableaux de bord et Power BI |
+| Intégration | API, workflows no-code et low-code |
+| Intelligence artificielle | Documents, assistants et optimisation de processus |
+| Confidentialité | Solutions locales, maîtrise des données et limitation des dépendances externes |
+| Opérations techniques | Outils pour l’aéronautique, les drones et les activités réglementées |
 
-## Ce que j’aime construire
+## Principes
 
-- des produits utiles avant d’être compliqués ;
-- des interfaces lisibles et orientées décision ;
-- des automatisations qui font réellement gagner du temps ;
-- des projets qui relient terrain, données et technologie.
+- comprendre le besoin avant de choisir la technologie ;
+- rechercher la solution la plus simple qui réponde correctement au problème ;
+- privilégier la fiabilité, la lisibilité et la maintenabilité ;
+- préserver la confidentialité, la traçabilité et la maîtrise des données ;
+- produire une documentation suffisante pour permettre une utilisation durable.
 
-## Outils du moment
+## Projets
 
-`JavaScript` · `APIs` · `Notion` · `Vercel` · `GitHub`
+### Notion PPL
+
+Projet personnel de tableau de bord intégré à Notion pour le suivi d’une formation de pilote privé : heures de vol, progression théorique, budget, dernières séances et saisie de nouvelles données.
+
+### Projets Altalea
+
+Ce profil accueillera progressivement des outils expérimentaux, des démonstrateurs et des projets open source développés sous le nom **Altalea**. Chaque dépôt public précisera son objectif, son périmètre, son niveau de maturité et ses conditions d’utilisation.
+
+## Technologies et environnements
+
+`Python` · `Excel` · `VBA` · `LibreOffice` · `Notion` · `Power BI` · `API` · `No-code / Low-code` · `IA appliquée` · `Outils locaux`
+
+## Contact
+
+Pour une question liée à un projet, le moyen le plus simple est d’ouvrir une [issue GitHub](https://github.com/altalea73/altalea73/issues) ou une issue dans le dépôt concerné.
 
 ---
 
-<sub>Altalea côté mobilité électrique, projets personnels côté aviation, data et automatisation.</sub>
+## English summary
+
+**Altalea** is an independent digital engineering practice focused on business tools, automation, data and applied artificial intelligence. Projects published here turn concrete operational needs into reliable, documented and maintainable solutions, with particular attention to privacy, traceability and data control.
